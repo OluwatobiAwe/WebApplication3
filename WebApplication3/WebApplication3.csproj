@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NHSUKViewComponents.Web" Version="18.4.0" />
+  </ItemGroup>
+
 </Project>
